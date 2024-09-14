@@ -6,5 +6,7 @@ A autonomous game of Drug Wars using a locally hosted llm.
 TODO
 
 - Some gameplay elements such as events aren't influencing market or outcomes and are just flavour currently
+- Random events will help stabilise running out of options by adding some random noise
 - JSON interaction from the agent needs tuning
+- Debt mechanic needs work
   
