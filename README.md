@@ -2,7 +2,7 @@
 
 `drugwAIrs` is a **multi-agent economic simulation** where llm-driven autonomous agents compete in a shared, finite resource market. it's essentially drugwars (the classic ti-83 game) but instead of human players making buy/sell/travel decisions, you've got language models reasoning through strategy, risk, and survival.
 
-![terminal](assets\terminal.png)
+![terminal](assets/terminal.png)
 
 ### the architecture
 
