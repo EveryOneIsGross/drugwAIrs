@@ -1,4 +1,4 @@
-![drugwairs splash](assets/banner.png)
+![drugwairs splash](assets/banner.gif)
 
 ## drugwAIrs
 
